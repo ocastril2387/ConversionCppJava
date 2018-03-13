@@ -1,4 +1,11 @@
-public class Dupla{
+public class guia2_act1{
+	public static void main(String[] args){
+		
+	}
+}
+
+
+class Dupla{
 	
 	private int a;
 	private int b;
@@ -31,8 +38,5 @@ public class Dupla{
 		this.a = a;
 		this.b = b;
 	}
-	
-	public static void main(String[] args){
-		
-	}
 }
+
